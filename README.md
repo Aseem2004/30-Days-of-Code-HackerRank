@@ -16,4 +16,5 @@
 <h2>,<b>Tabulation:</b></h2>
 <ul type="disc">
 <li><a href="https://www.hackerrank.com/challenges/30-hello-world/problem?isFullScreen=true">Day 0: Hello, World</li>
+<li><a href="https://www.hackerrank.com/challenges/30-data-types/problem?isFullScreen=true">Day 1: Data Types</li>
 </ul>
