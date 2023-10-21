@@ -18,4 +18,5 @@
 <li><a href="https://www.hackerrank.com/challenges/30-hello-world/problem?isFullScreen=true">Day 0: Hello, World</li>
 <li><a href="https://www.hackerrank.com/challenges/30-data-types/problem?isFullScreen=true">Day 1: Data Types</li>
 <li><a href="https://www.hackerrank.com/challenges/30-operators/problem?isFullScreen=true">Day 2: Operators</li>
+<li><a href="https://www.hackerrank.com/challenges/30-conditional-statements/problem?isFullScreen=true">Day 3: Intro to Conditional Statements</li>
 </ul>
