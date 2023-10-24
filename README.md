@@ -21,4 +21,5 @@
 <li><a href="https://www.hackerrank.com/challenges/30-conditional-statements/problem?isFullScreen=true">Day 3: Intro to Conditional Statements</li>
 <li><a href="https://www.hackerrank.com/challenges/30-class-vs-instance/problem?isFullScreen=true">Day 4: Class vs. Instance</li>
 <li><a href="https://www.hackerrank.com/challenges/30-loops/problem?isFullScreen=true">Day 5: Loops</li>
+<li><a href="https://www.hackerrank.com/challenges/30-review-loop/problem?isFullScreen=true">Day 6: Let's Review</li>
 </ul>
