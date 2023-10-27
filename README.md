@@ -24,4 +24,5 @@
 <li><a href="https://www.hackerrank.com/challenges/30-review-loop/problem?isFullScreen=true">Day 6: Let's Review</li>
 <li><a href="https://www.hackerrank.com/challenges/30-arrays/problem?isFullScreen=trueDay">Day 7: Arrays</li>
 <li><a href="https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem?isFullScreen=true">Day 8: Dictionaries and Maps</li>
+<li><a href="https://hackerrank.com/challenges/30-recursion/problem?isFullScreen=true">Day 9: Recursion 3</li>
 </ul>
