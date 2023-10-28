@@ -25,4 +25,5 @@
 <li><a href="https://www.hackerrank.com/challenges/30-arrays/problem?isFullScreen=trueDay">Day 7: Arrays</li>
 <li><a href="https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem?isFullScreen=true">Day 8: Dictionaries and Maps</li>
 <li><a href="https://hackerrank.com/challenges/30-recursion/problem?isFullScreen=true">Day 9: Recursion 3</li>
+<li><a href="https://www.hackerrank.com/challenges/30-binary-numbers/problem?isFullScreen=true">Day 10: Binary Numbers</li>
 </ul>
