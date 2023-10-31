@@ -27,4 +27,5 @@
 <li><a href="https://hackerrank.com/challenges/30-recursion/problem?isFullScreen=true">Day 9: Recursion 3</li>
 <li><a href="https://www.hackerrank.com/challenges/30-binary-numbers/problem?isFullScreen=true">Day 10: Binary Numbers</li>
 <li><a href="https://www.hackerrank.com/challenges/30-2d-arrays/problem?isFullScreen=true">Day 11: 2D Arrays</li>
+<li><a href="https://www.hackerrank.com/challenges/30-inheritance/problem?isFullScreen=true">Day 12: Inheritance</li>
 </ul>
