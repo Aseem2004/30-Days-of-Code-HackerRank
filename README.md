@@ -32,4 +32,5 @@
 <li><a href="https://www.hackerrank.com/challenges/30-scope/problem?isFullScreen=true">Day 14: Scope</li>
 <li><a href="https://www.hackerrank.com/challenges/30-linked-list/problem?isFullScreen=true">Day 15: Linked List</li>
 <li><a href="https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem?isFullScreen=true">Day 16: Exceptions - String to Integer</li>
+<li><a href="https://www.hackerrank.com/challenges/30-more-exceptions/problem?isFullScreen=true">Day 17: More Exceptions</li>
 </ul>
