@@ -37,4 +37,5 @@
 <li><a href="https://www.hackerrank.com/challenges/30-interfaces/problem?isFullScreen=true">Day 19: Interfaces</li>
 <li><a href="https://www.hackerrank.com/challenges/30-sorting/problem?isFullScreen=true">Day 20: Sorting</li>
 <li><a href="https://www.hackerrank.com/challenges/30-generics/problem?isFullScreen=true">Day 21: Generics</li>
+<li><a href="https://www.hackerrank.com/challenges/30-binary-search-trees/problem?isFullScreen=true">Day 22: Binary Search Trees</li>
 </ul>
