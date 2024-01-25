@@ -36,4 +36,5 @@
 <li><a href="https://www.hackerrank.com/challenges/30-queues-stacks/problem?isFullScreen=true">Day 18: Queues and Stacks</li>
 <li><a href="https://www.hackerrank.com/challenges/30-interfaces/problem?isFullScreen=true">Day 19: Interfaces</li>
 <li><a href="https://www.hackerrank.com/challenges/30-sorting/problem?isFullScreen=true">Day 20: Sorting</li>
+<li><a href="https://www.hackerrank.com/challenges/30-generics/problem?isFullScreen=true">Day 21: Generics</li>
 </ul>
