@@ -39,4 +39,5 @@
 <li><a href="https://www.hackerrank.com/challenges/30-generics/problem?isFullScreen=true">Day 21: Generics</li>
 <li><a href="https://www.hackerrank.com/challenges/30-binary-search-trees/problem?isFullScreen=true">Day 22: Binary Search Trees</li>
 <li><a href="https://www.hackerrank.com/challenges/30-binary-trees/problem?isFullScreen=true">Day 23: BST Level-Order Traversal</li>
+<li><a href="https://www.hackerrank.com/challenges/30-linked-list-deletion/problem?isFullScreen=true">Day 24: More Linked Lists</li>
 </ul>
