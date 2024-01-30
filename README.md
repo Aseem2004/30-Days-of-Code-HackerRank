@@ -41,4 +41,5 @@
 <li><a href="https://www.hackerrank.com/challenges/30-binary-trees/problem?isFullScreen=true">Day 23: BST Level-Order Traversal</li>
 <li><a href="https://www.hackerrank.com/challenges/30-linked-list-deletion/problem?isFullScreen=true">Day 24: More Linked Lists</li>
 <li><a href="https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem?isFullScreen=true">Day 25: Running Time and Complexity</li>
+<li><a href="https://www.hackerrank.com/challenges/30-nested-logic/problem?isFullScreen=true">Day 26: Nested Logic</li>
 </ul>
