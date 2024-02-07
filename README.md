@@ -44,4 +44,5 @@
 <li><a href="https://www.hackerrank.com/challenges/30-nested-logic/problem?isFullScreen=true">Day 26: Nested Logic</li>
 <li><a href="https://www.hackerrank.com/challenges/30-testing/problem?isFullScreen=true">Day 27:Testing</li>
 <li><a href="https://www.hackerrank.com/challenges/30-regex-patterns/problem?isFullScreen=true">Day 28: RegEx, Patterns, and Intro to Databases</li>
+<li><a href="https://www.hackerrank.com/challenges/30-bitwise-and/problem?isFullScreen=true">Day 29: Bitwise AND</li>
 </ul>
